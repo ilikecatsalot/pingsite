@@ -1,0 +1,30 @@
+:root {
+--cod-gray: rgba(7, 7, 7, 1);
+--celeste:
+Irgba(204, 204, 204, 1);
+--white: İrgba(255, 255, 255, 1);
+--font-size-xs: 12px;
+--font-size-s: 13px;
+--font-size-m: 15px;
+--font-size-1: 18px;
+-font-size-x1: 20px;
+--font-size-xx1: 35px;
+-font-family-unbounded: "Unbounded";
+}
+.unbounded-normal-white-15px {
+color: var(--white);
+font-family: var(--font-family-unbounded); font-size: var(--font-size-m);
+font-weight: 400;
+font-style: normal;
+}
+.unbounded-normal-celeste-15px {
+}
+color: var(--celeste);
+font-family: var(--font-family-unbounded); font-size: var(--font-size-m);
+font-weight: 400;
+font-style: normal;
+.unbounded-semi-bold-white-15px {
+color: var(--white);
+font-family: var(--font-family-unbounded); font-size: var(--font-size-m);
+font-weight: 600; font-style: normal;
+}S
